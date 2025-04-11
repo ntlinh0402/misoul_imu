@@ -10,7 +10,7 @@ android {
     ndkVersion = "27.0.12077973"
 
     defaultConfig {
-        applicationId = "com.example.flutter_application_1"
+        applicationId = "com.misoul.app"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
